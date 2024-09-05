@@ -12,7 +12,7 @@ You can also add some badges/states next to Project Name, e.g,
 - Others
 
 <div id="header" align="center">
-    <img src="[https://dribbble.com/shots/5487982-Developers-Gif](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif)" width="500" />
+    <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="500" />
 </div>
 
 ## Features or Example
