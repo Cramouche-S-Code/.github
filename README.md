@@ -1,14 +1,19 @@
-# Project Name
+# Cramouche Coder Team
 
 Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 You can also add some badges/states next to Project Name, e.g,
-+ [Travis CI](https://travis-ci.org/)
-+ [AppVeyor](http://www.appveyor.com/)
-+ [Coveralls](https://coveralls.io/)
-+ [Gitter](https://gitter.im/)
-+ [Shields.io](http://shields.io/)
-+ Others
+
+- [Travis CI](https://travis-ci.org/)
+- [AppVeyor](http://www.appveyor.com/)
+- [Coveralls](https://coveralls.io/)
+- [Gitter](https://gitter.im/)
+- [Shields.io](http://shields.io/)
+- Others
+
+<div id="header" align="center">
+    <img src="https://dribbble.com/shots/5487982-Developers-Gif" width="500" />
+</div>
 
 ## Features or Example
 
@@ -21,15 +26,16 @@ A short description of the motivation behind the creation and maintenance of the
 ## Requirements
 
 This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
-+ [Node.js](https://nodejs.org/)
-+ [React](https://facebook.github.io/react/)
-+ Others
+
+- [Node.js](https://nodejs.org/)
+- [React](https://facebook.github.io/react/)
+- Others
 
 ## Installation or Getting Started
 
 Provide code examples and explanations of how to get the project, e.g.,
 
-	git clone https://github.com/Jasonnor/README.md.git
+    git clone https://github.com/Jasonnor/README.md.git
     cd README.md
     npm install README.md
     npm start
@@ -37,11 +43,11 @@ Provide code examples and explanations of how to get the project, e.g.,
 ## Usage
 
 Show how to use the project or library.
-    
+
 ## Reference
 
-+ [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
-+ [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
+- [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
+- [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
